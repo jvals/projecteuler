@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Pell%27s_equation#The_negative_Pell's_equation
+https://en.wikipedia.org/wiki/Square_root_of_2#Continued_fraction
+https://www.wolframalpha.com/input?i=%28x%2Fy%29*%28%28x-1%29%2F%28y-1%29%29%3D1%2F2%2C+solve+for+x
+https://oeis.org/A031396
+https://math.stackexchange.com/questions/580491/general-quadratic-diophantine-equation?rq=1
+https://www.alpertron.com.ar/QUAD.HTM
+https://www.wolframalpha.com/input?i=%28x%2Fy%29*%28%28x-1%29%2F%28y-1%29%29%3D1%2F2%2C+y%3E10%5E12
+https://www.wolframalpha.com/input?i=x%3D%281%2Bsqrt%282*y%5E2-2y%2B1%29%29%2F2
